@@ -120,7 +120,7 @@ a {
 /* ============Section Our team============= */
 
 .section-team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .section-team-title {
@@ -134,6 +134,7 @@ a {
 }
 
 .section-team-list {
+  background-color: #ffffff;
 }
 
 .section-team-subtitle {
